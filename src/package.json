@@ -5,7 +5,7 @@
     "chart.js": "*"
   },
   "peerDependencies": {
-    "@angular/common": "4.1.2",
-    "@angular/core": "4.1.2"
+    "@angular/common": "^4.1.2",
+    "@angular/core": "^4.1.2"
   }
 }
